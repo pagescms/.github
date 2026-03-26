@@ -10,4 +10,4 @@ You can use [the free online version](https://app.pagescms.org) or [deploy your 
 
 ---
 
-Pages CMS is created by [Ronan Berder](https://github.com/hunvreus). If you find it useful, consider sponsoring Ronan on GitHub: [Sponsor on GitHub](https://github.com/sponsors/hunvreus)
+Pages CMS is created by [Ronan Berder](https://github.com/hunvreus). If you find it useful, consider sponsoring him on GitHub: [Sponsor on GitHub](https://github.com/sponsors/hunvreus)
