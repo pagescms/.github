@@ -1,5 +1,7 @@
 <img width="3168" height="2034" alt="Screenshot 2026-03-20 at 12 20 52 PM" src="https://github.com/user-attachments/assets/b6215264-977c-49bf-8a81-4181acd23554" />
 
+---
+
 **[Pages CMS](https://pagescms.org) is an open-source headless CMS for GitHub.**
 
 It lets you manage content and media right in your GitHub repository. No database, no API, no extra backend. Every change is reflected as a Git commit on GitHub.
